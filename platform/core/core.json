@@ -1,0 +1,10 @@
+{
+    "productId": "91D53C6F",
+    "source": "envato",
+    "apiUrl": "https://license.thesky9.com",
+    "apiKey": "EC3610AE9706B1510B0A",
+    "version": "2.21.0",
+    "marketplaceUrl": "https://marketplace.botble.com/api/v1",
+    "marketplaceToken": "7ab0826a9b36e6e85315babf77b3366cf30ebdaa",
+    "minimumPhpVersion": "8.0.2"
+}

@@ -1,0 +1,15 @@
+{
+    "id": "thesky9/resido",
+    "name": "Resido - Real Estate",
+    "namespace": "Theme\\Resido\\",
+    "description": "Real Estate theme",
+    "author": "TheSky9 Team",
+    "version": "2.21.0",
+    "required_plugins": [
+        "blog",
+        "contact",
+        "language",
+        "location",
+        "real-estate"
+    ]
+}
